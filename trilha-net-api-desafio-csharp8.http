@@ -1,0 +1,6 @@
+@trilha_net_api_desafio_csharp8_HostAddress = http://localhost:5280
+
+GET {{trilha_net_api_desafio_csharp8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
